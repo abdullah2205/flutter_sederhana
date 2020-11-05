@@ -1,6 +1,6 @@
 # dicatet_app
 
-Aplikasi untuk mencatat kegiatan yang harus dilakukan selama seminggu.
+UI sederhana aplikasi untuk mencatat kegiatan yang harus dilakukan selama seminggu.
 
 ## Getting Started
 
